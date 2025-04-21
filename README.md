@@ -1,4 +1,4 @@
-![Screenshot 2025-04-21 092131](https://github.com/user-attachments/assets/69b78a53-220d-4019-8d51-53d84936ea98)![Screenshot 2025-04-21 092131](https://github.com/user-attachments/assets/1f30b004-28db-452f-ae33-6f5edd70ec0c)# EX 7: CREATING A BACKDOOR WITH SOCIAL ENGINEERING TOOLKIT (SET)
+# EX 7: CREATING A BACKDOOR WITH SOCIAL ENGINEERING TOOLKIT (SET)
 creating a backdoor with SET - Ethical Hacking Techniques course
 
 # AIM:
